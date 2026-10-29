@@ -1,0 +1,10 @@
+{
+  "name": "Fiola",
+  "short_name": "Fiola",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf8f3",
+  "theme_color": "#fbf8f3",
+  "lang": "ru-RU",
+  "icons": []
+}

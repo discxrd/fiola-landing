@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="112" viewBox="0 0 190 112" fill="none">
+  <g opacity="0.78" stroke="#2A2A2A" stroke-width="1">
+    <path d="M0 0h190M0 56h190M0 112h190" opacity="0.55"/>
+    <path d="M0 0 47.5 56 95 0l47.5 56L190 0" opacity="0.8"/>
+    <path d="M0 18 47.5 74 95 18l47.5 56L190 18" opacity="0.62"/>
+    <path d="M0 36 47.5 92 95 36l47.5 56L190 36" opacity="0.48"/>
+    <path d="M0 56 47.5 112 95 56l47.5 56L190 56" opacity="0.68"/>
+  </g>
+</svg>

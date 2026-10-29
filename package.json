@@ -1,0 +1,22 @@
+{
+	"name": "fiola-landing",
+	"version": "0.1.0",
+	"private": true,
+	"description": "Static HTML/CSS landing prepared for Figma blocks, SEO, Lighthouse and GSAP animations.",
+	"type": "commonjs",
+	"scripts": {
+		"check": "node ./scripts/quality-check.js && node --check ./scripts/main.js",
+		"dev": "vite --host 0.0.0.0 --port 3000 --strictPort",
+		"serve": "npm run dev",
+		"preview": "vite preview --host 0.0.0.0 --port 3000 --strictPort"
+	},
+	"devDependencies": {
+		"vite": "^5.4.21"
+	},
+	"browserslist": [
+		"last 2 Chrome versions",
+		"last 2 Firefox versions",
+		"last 2 Safari versions",
+		"last 2 Edge versions"
+	]
+}

@@ -1,0 +1,44 @@
+<svg width="1920" height="837" viewBox="0 0 1920 837" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_fiola_hero_wave)">
+<path d="M-71 200C-71 200 541.575 534.984 939.953 534.984C1338.33 534.984 2046.63 225.224 2046.63 225.224V654.047C2046.63 654.047 1339.05 644.1 939.953 644.1C540.856 644.1 -71 732.015 -71 732.015V200Z" fill="#7A24B3"/>
+</g>
+<g filter="url(#filter1_fiola_hero_wave)">
+<path d="M-71 327.879C-71 327.879 541.469 536.594 939.777 536.594C1338.09 536.594 2046.26 342.923 2046.26 342.923V647.489C2046.26 647.489 1338.81 630.754 939.777 630.754C540.749 630.754 -71 709.075 -71 709.075V327.879Z" fill="white"/>
+</g>
+<g filter="url(#filter2_fiola_hero_wave)">
+<path d="M-71 360.093C-71 360.093 541.469 559.883 939.777 559.883C1338.09 559.883 2046.26 375.137 2046.26 375.137V630.894C2046.26 630.894 1338.81 624.961 939.777 624.961C540.749 624.961 -71 677.395 -71 677.395V360.093Z" fill="#7A24B3"/>
+</g>
+<g filter="url(#filter3_fiola_hero_wave)">
+<path d="M-71 418.663C-71 418.663 541.469 580.762 939.777 580.762C1338.09 580.762 2046.26 433.707 2046.26 433.707V584.038C2046.26 584.038 1338.81 619.015 939.777 619.015C540.749 619.015 -71 597.956 -71 597.956V418.663Z" fill="#30006B"/>
+</g>
+<g filter="url(#filter4_fiola_hero_wave)">
+<path d="M-71 433.306C-71 433.306 541.469 563.625 939.777 563.625C1338.09 563.625 2046.26 448.35 2046.26 448.35V504.968C2046.26 504.968 1345.18 603.648 946.149 603.648C547.122 603.648 -71 489.924 -71 489.924V433.306Z" fill="black"/>
+</g>
+<defs>
+<filter id="filter0_fiola_hero_wave" x="-271" y="0" width="2517.63" height="932.015" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="42" result="effect1_foregroundBlur_fiola_hero_wave"/>
+</filter>
+<filter id="filter1_fiola_hero_wave" x="-138.7" y="260.179" width="2252.66" height="516.596" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="12" result="effect2_foregroundBlur_fiola_hero_wave"/>
+</filter>
+<filter id="filter2_fiola_hero_wave" x="-138.7" y="292.393" width="2252.66" height="452.703" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="12" result="effect3_foregroundBlur_fiola_hero_wave"/>
+</filter>
+<filter id="filter3_fiola_hero_wave" x="-138.7" y="350.963" width="2252.66" height="335.752" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="12" result="effect4_foregroundBlur_fiola_hero_wave"/>
+</filter>
+<filter id="filter4_fiola_hero_wave" x="-138.7" y="365.606" width="2252.66" height="305.742" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="12" result="effect5_foregroundBlur_fiola_hero_wave"/>
+</filter>
+</defs>
+</svg>
